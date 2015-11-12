@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Go Coverage",
+		"Golang Build",
+		"GoOracle",
+		"GoSnippets",
+		"GoSublime",
+		"jsfmt",
+		"MarkdownEditing",
+		"Package Control",
+		"Perfectionist",
+		"PgSQL",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-golint",
+		"SublimeLinter-contrib-gometalinter",
+		"Theme - Phoenix",
+		"Tomorrow Color Schemes",
+		"Zen Tabs"
+	]
+}

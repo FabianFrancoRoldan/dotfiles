@@ -1,0 +1,37 @@
+{
+	"9o.hist./home/fabian/Dev/go/src/api.poc":
+	[
+		"api.poc/controllers/quotesbank",
+		"command-line-arguments",
+		"GoSublime r14.12.06-1 9o: type `help` for help and command documentation\n\n[ `go run main.go` | done: 620.486288ms ]\n	2015/09/19 15:15:09 main.go:44: Starting API Server...\n[ `go run main.go` | done: 45.848863ms ]\n	routers/router.go:5:3: cannot find package \"api.poc/routers/quotesbank\" in any of:\n		/usr/local/go/src/api.poc/routers/quotesbank (from $GOROOT)\n		/home/fabian/Dev/go/src/api.poc/routers/quotesbank (from $GOPATH)\n	\n	exit status 1\n[ ~/Dev/go/src/api.poc/ ] # \n[ `go run main.go` | done: 90.587536ms ]\n	# api.poc/routers/quotesbank\n	routers/quotesbank/routes.go:11: undefined: controllers in controllers.QuotesBankUserController\n	\n	exit status 2\n[ ~/Dev/go/src/api.poc/ ] # \n[ `go run main.go` | done: 62.812836ms ]\n[ `go run main.go` | done: 245.3791ms ]\n	# command-line-arguments\n	./main.go:35: imported and not used: \"api.poc/routers\"\n	\n	exit status 2\n	controllers/quotesbank/controller.go:9: w.write undefined (type http.ResponseWriter has no field or method write, but does have Write)\n	\n	exit status 2\n[ ~/Dev/go/src/api.poc/ ] # \n[ `go run main.go` | done: 182.114755ms ]\n[ `command-line-arguments` | done: 2.506259ms ]\n	/bin/bash: command-line-arguments: command not found\n	\n	exit status 127\n	./main.go:35: imported and not used: \"api.poc/routers\"\n	\n	exit status 2\n[ ~/Dev/go/src/api.poc/ ] # \n[ `command-line-arguments` | done: 7.234458ms ]\n	/bin/bash: command-line-arguments: command not found\n	\n	exit status 127\n[ ~/Dev/go/src/api.poc/ ] # \n[ `command-line-arguments` | done: 1.86618ms ]\n	/bin/bash: command-line-arguments: command not found\n	\n	exit status 127\n[ `go run main.go` | done: 137.055794ms ]\n	# command-line-arguments\n	./main.go:47: undefined: routes\n	./main.go:50: undefined: routes\n	./main.go:50: too many arguments in call to n.Handlers\n	\n	exit status 2\n[ `go run main.go` | done: 97.317385ms ]\n	# command-line-arguments\n	./main.go:47: undefined: routes\n	./main.go:50: undefined: routes\n	./main.go:50: too many arguments in call to n.Handlers\n	\n	exit status 2\n[ `go run main.go` | done: 95.067262ms ]\n	# command-line-arguments\n	./main.go:48: use of package routers without selector\n	./main.go:49: undefined: routes\n	./main.go:52: undefined: routes\n	./main.go:52: too many arguments in call to n.Handlers\n	\n	exit status 2\n[ ~/Dev/go/src/api.poc/ ] #",
+		"GoSublime r14.12.06-1 9o: type `help` for help and command documentation",
+		"go run main.go",
+		"go fmt main.go",
+		"go fmt router.go",
+		"cd go fmt router.go",
+		"cd router",
+		"cd routers"
+	],
+	"9o.hist./home/fabian/Dev/go/src/api.poc/routers":
+	[
+		"go fmt router.go",
+		"cd ..",
+		"cd ../"
+	],
+	"9o.hist./home/fabian/Dev/go/src/api.poc/routers/quotesbank":
+	[
+		"cd ../"
+	],
+	"9o.hist./home/fabian/Dev/go/src/api_poc":
+	[
+		"go fmt main.go",
+		"go run main.go"
+	],
+	"9o.hist./home/fabian/Dev/go/src/api_poc/routers/quotebank":
+	[
+		"go fmt routes.go"
+	],
+	"ann": "a14.02.25-1",
+	"install_version": "r14.12.06-1",
+	"version": "r14.12.06-1"
+}

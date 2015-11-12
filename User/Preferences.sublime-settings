@@ -1,0 +1,18 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Phoenix Dark Orange (SL).tmTheme",
+	"font_size": 9,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"phoenix_color_expanded_folder": true,
+	"phoenix_color_orange": true,
+	"phoenix_dirty_bottom_bar": true,
+	"phoenix_dirty_bottom_bar_red": true,
+	"phoenix_highlight_current_tab": true,
+	"phoenix_tabs_auto_width": false,
+	"phoenix_tabs_font_small": true,
+	"theme": "Phoenix Dark.sublime-theme"
+}
